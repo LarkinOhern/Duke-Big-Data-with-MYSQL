@@ -1,0 +1,28 @@
+Writing Queries: Don't be a jerk! 
+
+Don't: 
+
+Ask for all the values in a large table if thats not what you need
+
+Ask to combine tables with many to many relationships or duplicate rows 
+
+Do:
+
+Know your data! Know the size of the tables and the realtionships (many to many?) so you don't hog server time!
+
+Dognition Data Set:
+
+3 types of subscripton:
+Core 20 games for assesment
+Yearly 12 additional games and activitir 1 per month
+Monthly
+
+What business problem:
+Brocure-pre login
+Game-post login 
+
+Increase completion-further through the games 
+***Push users to complete more tests***
+
+Must get into every test w/a question or testable hypotheis 
+
