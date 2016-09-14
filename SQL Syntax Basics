@@ -1,0 +1,22 @@
+DQL (Data Query Language) since you dont edit data...
+Front end=user interface 
+
+*SELECT what i want
+
+*FROM tables and fields
+
+where crteria are met
+
+Group by field
+
+Having criteria
+
+Order by field ;
+
+write in multi-lines 
+
+Functios: SUM, COUNT, 
+
+write table/col names in same case 
+
+0 is data NULL is missing 
